@@ -1,0 +1,12 @@
+.left-div {
+    float: left;
+    width: 100px;
+    height: 20px;
+    margin-right: 8px;
+}
+.right-div {
+    margin-left: 108px;
+    background-color: linen;
+    width: 1200px;
+    height: 600px;
+}
